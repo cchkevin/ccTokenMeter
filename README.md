@@ -26,3 +26,7 @@ Update later with `claude plugin update`.
 claude plugin validate .
 claude plugin test .
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
