@@ -1,0 +1,5 @@
+{
+  "name": "my-mods",
+  "owner": { "name": "cchke" },
+  "plugins": [{ "name": "token-meter", "source": "./" }]
+}

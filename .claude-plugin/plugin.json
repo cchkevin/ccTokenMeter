@@ -1,0 +1,9 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Status line mod: current model, 5-hour/weekly remaining quota and the last API call token usage.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "cchke"
+  }
+}
